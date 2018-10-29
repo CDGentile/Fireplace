@@ -73,7 +73,7 @@ File fsUploadFile;              // a File object to temporarily store the receiv
 
 // WiFi Parameters
 const char* ssid = "Bullpup_CA";
-const char* password = "Kaseido1";
+const char* password = "********";
 const char* host = "Fireplace";
 //IPAddress fixedIP(192,168,1,201);
 
